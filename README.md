@@ -9,3 +9,6 @@ Go to your main bots file and check (normally at the top) for `const ??? = new C
 });`
 
 Adjust the `bot` in `bot.uptime` to whatever you have for your client.
+
+# An example of the commands output:
+![image](https://i.imgur.com/bFB4ZKP.png)
